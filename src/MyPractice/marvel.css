@@ -1,0 +1,44 @@
+.card1{
+    padding: 2px;
+    width: 150px;
+    height: 200px;
+    text-align: center;
+    margin:80px
+}
+
+.image1{
+    margin:2px;
+    height: 110px;
+}
+
+.body1{
+    background-color:lightgoldenrodyellow;
+    height:88px;
+    text-align: center;
+    width: 150px;
+}
+
+.title1{
+    margin: 2px;
+    height: 40px;
+    padding-top: 5px;
+    font-size: 18px;
+}
+
+.button{
+   margin:2px 
+}
+
+.main-body{
+    display: flex;
+    column-gap: 150px;
+}
+
+.j-body{
+    border:2px solid black
+}
+
+.cardImage {
+    width: 150px;
+    height: 90px;
+}

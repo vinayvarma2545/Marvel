@@ -1,0 +1,33 @@
+[
+
+    {
+        "img1":"https://thenerdstash.com/wp-content/uploads/2022/03/iron-Man.jpg.webp",
+        "title1":"1st character",
+        "button1":"add to cart"
+    },
+
+    {
+        "img1":"https://cdn.mos.cms.futurecdn.net/fZPKudBPPk26E77hXKawqa-1200-80.jpg",
+        "title1":"2nd character",
+        "button1":"add to cart"
+    },
+
+    {
+        "img1":"https://ichef.bbci.co.uk/images/ic/640x360/p09t1hg0.jpg",
+        "title1":"3rd character",
+        "button1":"add to cart"
+    },
+
+    {
+        "img1":"https://cdn.mos.cms.futurecdn.net/KwSeU4dvFnJkPJ9FWXNSk3.jpg",
+        "title1":"4th character",
+        "button1":"add to cart"
+    },
+
+    {
+        "img5":"https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FIb0U3CKEl2E-KbLGjSULm1H4w0A%3D%2F0x0%3A1920x1080%2F2000x1333%2Ffilters%3Afocal(960x540%3A961x541)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23921274%2Fss_7be97aa12cfc0e8feccdbb95dac3de71480f2140.1920x1080.jpg&w=750&q=75",
+        "title1":"5th character",
+        "button1":"add to cart"
+    }
+   
+]
